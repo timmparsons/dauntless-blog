@@ -1,0 +1,28 @@
+.blog-post-section {
+    border: 1px solid gray;
+    width: 400px;
+    margin-top: 25px;
+  }
+
+  .blog-post-preview-image {
+      height: 100px;
+      width: 100px;
+      background-color: blue;
+  }
+
+  .blog-post-article {
+      border: 1px solid green;
+      width: 400px;
+      margin-top: 25px;
+  }
+
+  .author-details {
+      border: 1px solid blueviolet;
+      width: 395px;
+  }
+
+  .comments-section {
+      border: 1px solid red;
+      width: 395px;
+      margin-top: 25px;
+  }
